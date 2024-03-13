@@ -1,5 +1,7 @@
 Epitech Project: my_printf
 
+Duo project, my duo : EnzoDubeaurepaire
+
 Task Description:
 
 Your assignment involves re-implementing the printf function from the C library in accordance with the C99 standard. 
