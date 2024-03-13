@@ -1,6 +1,6 @@
 Epitech Project: my_printf
 
-Duo project, my duo : github.com/EnzoDubeaurepaire
+Duo project, my duo : [Enzo Dubeaurepaire](github.com/EnzoDubeaurepaire)
 
 Task Description:
 
